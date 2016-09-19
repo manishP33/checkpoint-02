@@ -1,7 +1,9 @@
 
 
 $ ("#red").click(function(){
-  $("div#red.bulb.active").css("background", "#555");
+
+    $("div#red.bulb.active").css("background", "#555");
+
 
 });
 
